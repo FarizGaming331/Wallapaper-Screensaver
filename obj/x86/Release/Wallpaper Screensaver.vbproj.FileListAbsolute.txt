@@ -1,0 +1,13 @@
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Release\Wallpaper Screensaver.exe
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Release\Wallpaper Screensaver.pdb
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Release\Wallpaper Screensaver.xml
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper_Screensaver.About.resources
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper_Screensaver.Form1.resources
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper_Screensaver.Form2.resources
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper_Screensaver.Resources.resources
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper Screensaver.exe
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper Screensaver.xml
+C:\Users\AVARIS\Documents\Visual Studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Release\Wallpaper Screensaver.pdb

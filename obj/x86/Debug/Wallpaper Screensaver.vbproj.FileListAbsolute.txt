@@ -1,0 +1,26 @@
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.exe
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.pdb
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.xml
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Form1.resources
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Resources.resources
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.exe
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.xml
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.pdb
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Form2.resources
+C:\Users\AVARIS\AppData\Local\Temporary Projects\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.About.resources
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.exe
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.xml
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper Screensaver.pdb
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.exe
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.pdb
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\bin\Debug\Wallpaper Screensaver.xml
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.About.resources
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Form1.resources
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Form2.resources
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\Wallpaper_Screensaver.Resources.resources
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AVARIS\documents\visual studio 2010\Projects\Wallpaper Screensaver\Wallpaper Screensaver\obj\x86\Debug\GenerateResource.write.1.tlog
